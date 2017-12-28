@@ -24,7 +24,7 @@ import kr.or.nextit.common.file.service.FileItemService;
 import kr.or.nextit.common.util.PagingUtil;
 import kr.or.nextit.member.model.Member;
 
-// 12345
+
 @Controller
 @RequestMapping("/board")
 public class BoardController {
